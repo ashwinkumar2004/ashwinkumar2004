@@ -8,8 +8,8 @@
 - 🌐 **Frontend:** HTML, CSS, JavaScript (Basics)  
 - 🛠️ **Backend:** Core Java, REST (Basics)  
 - 🛢️ **Databases:** MySQL, PostgreSQL  
-- 🧰 **Tools:** Git, GitHub, VS Code, Eclipse
-🧩 DSA Practice
+- 🧰 **Tools:** Git, GitHub, VS Code, Eclipse.
+#### 🧩 DSA Practice
 📝 Tackling algorithmic challenges on LeetCode to build strong problem-solving skills[LeetCode]()
 #### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/ashwin-kumar-j2004)  
